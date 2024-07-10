@@ -9,6 +9,7 @@
     ./colorschemes/base16.nix
     ./colorschemes/catppuccin.nix
     ./colorschemes/rose-pine.nix
+    ./colorschemes/gruvbox.nix
 
     ./completion/cmp.nix
     ./completion/copilot.nix
